@@ -4,7 +4,7 @@ from PIL import Image
 import csv
 import shutil
 
-# 将指定文件夹下的txt文件路径写到txt文件里
+# 将指定文件夹下的txt文件路径写到txt文件里 --
 path = ['/raid/-data/VisDrone2019/VisDrone2019-DET-test-dev',
         '/raid/-data/VisDrone2019/VisDrone2019-DET-train',
         '/raid/-data/VisDrone2019/VisDrone2019-DET-val']
